@@ -20,7 +20,11 @@ Create complex particle animations with just a few lines of code!
 
 https://github.com/Gameoholic/Partigon/assets/30177004/07b13d7f-7630-463c-b83b-44c95c059d6a
 
-To get started, head to the [documentation](https://partigon.gameoholic.xyz/).
+## Getting Started
+
+- **Quick Start (Kotlin)**: See [TUTORIAL.md](TUTORIAL.md) for a step-by-step guide to creating a simple linear particle animation in Kotlin
+- **Quick Start (Java)**: See [TUTORIAL_JAVA.md](TUTORIAL_JAVA.md) for a step-by-step guide to creating a simple linear particle animation in Java
+- **Full Documentation**: The original documentation is available at [partigon.gameoholic.xyz](https://partigon.gameoholic.xyz/) (note: class names have changed in this fork)
 
 
 ## Using Partigon
