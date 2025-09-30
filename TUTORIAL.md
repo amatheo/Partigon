@@ -2,6 +2,8 @@
 
 This tutorial will guide you through creating your first particle animation using Partigon. We'll create a simple linear particle animation that moves a particle from one point to another.
 
+> **Note**: This is a fork of the original Partigon library. The original documentation is available at [partigon.gameoholic.xyz](https://partigon.gameoholic.xyz/), though class names have changed (e.g., `PartigonParticle` → `PartigonAnimation`).
+
 ## Prerequisites
 
 - A Minecraft server running Paper or Spigot

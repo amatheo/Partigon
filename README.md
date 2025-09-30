@@ -20,7 +20,10 @@ Create complex particle animations with just a few lines of code!
 
 https://github.com/Gameoholic/Partigon/assets/30177004/07b13d7f-7630-463c-b83b-44c95c059d6a
 
-To get started, head to the [documentation](https://partigon.gameoholic.xyz/).
+## Getting Started
+
+- **Quick Start**: See [TUTORIAL.md](TUTORIAL.md) for a step-by-step guide to creating a simple linear particle animation
+- **Full Documentation**: The original documentation is available at [partigon.gameoholic.xyz](https://partigon.gameoholic.xyz/) (note: class names have changed in this fork)
 
 
 ## Using Partigon
